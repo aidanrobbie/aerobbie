@@ -3,6 +3,8 @@ layout: page
 title: Home
 id: home
 permalink: /
+sidebar:
+    nav: "categories"
 ---
 
 # Aidan test site 2025
